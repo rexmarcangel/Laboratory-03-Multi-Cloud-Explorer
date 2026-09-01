@@ -6,7 +6,7 @@
  
 ●	Four (4) Core Services: 
 Azure Virtual Machines - Provides virtual machines for running applications and workloads. 
-zure Blob Storage - Provides scalable object storage for unstructured data. 
+Azure Blob Storage - Provides scalable object storage for unstructured data. 
 Azure SQL Database - Provides a managed relational database service.
 Microsoft Entra ID - Provides identity and access management for users and applications. 
 
