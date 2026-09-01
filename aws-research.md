@@ -31,4 +31,5 @@ The AWS Management Console is a web-based interface used to manage AWS services 
 
 AWS using enterprises for hosting websites and applications, data storage, database management, backup and disaster recovery, e-commerce systems, data analytics, and artificial intelligence applications.
 
-<img width="1440" height="852" alt="image" src="https://github.com/user-attachments/assets/20a9c776-06ba-4fb8-8ea9-18f8bf94ef06" />
+<img width="1440" height="852" alt="image" src="https://github.com/user-attachments/assets/b6c05add-a217-4d46-958d-60d3111770e7" />
+
