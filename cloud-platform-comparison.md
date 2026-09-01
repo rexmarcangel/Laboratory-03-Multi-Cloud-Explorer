@@ -1,10 +1,10 @@
-Category	          | AWS	                               | Microsoft Azure	                          |  Google Cloud Platform 
-Launch Year			    | 2006                               | 2010                                       |  2008
-Compute Service			| Amazon EC2                         | Azure Virtual Machines                     |  Compute Engine         
-Storage Service			| Amazon s3                          | Azure BLob Storage                         |  Cloud Storage          
-Networking Service	| Amazon VPC                         | Azure Virtual Network                      |  Virtual Private Cloud (VPC)	
-Identity Service		| AWS IAM                            | Microsoft Entra ID                         |  Cloud IAM	
-Primary Strength		| Wide range of cloud services       | Microsoft and enterprise integration       | AI, machine learning, and Kubernetes	
+Category	            | AWS	                                | Microsoft Azure	                          |  Google Cloud Platform 
+Launch Year			   | 2006                                | 2010                                       |  2008
+Compute Service	   | Amazon EC2                          | Azure Virtual Machines                     |  Compute Engine         
+Storage Service	   | Amazon s3                           | Azure BLob Storage                         |  Cloud Storage          
+Networking Service	| Amazon VPC                          | Azure Virtual Network                      |  Virtual Private Cloud (VPC)	
+Identity Service		| AWS IAM                             | Microsoft Entra ID                         |  Cloud IAM	
+Primary Strength		| Wide range of cloud services        | Microsoft and enterprise integration       | AI, machine learning, and Kubernetes	
 Ideal Organizations	|	Enterprises and large organizations| Organizations using Microsoft technologies	| Data, and cloud-native organizations
 After completing the table, answer the following questions in 2–3 sentences each.
 1.	Which cloud provider offers the broadest range of services?
