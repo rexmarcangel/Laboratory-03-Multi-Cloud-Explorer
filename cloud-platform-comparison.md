@@ -40,3 +40,16 @@ I would personally choose Amazon Web Services (AWS) because it provides a wide r
 | Identity Management | AWS IAM | Microsoft Entra ID | Cloud IAM |
 | SQL Database | Amazon RDS | Azure SQL Database | Cloud SQL |
 | Kubernetes | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
+
+## Multi-Cloud Decision Matrix
+
+The table below shows my recommended cloud platform for different business needs.
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | I would choose AWS for a startup because it has many services that can support a small business. The company can start with basic resources and increase them as the number of users grows. |
+| Enterprise Organization | AWS | I would recommend AWS for a large organization because it offers many cloud services and has a large global infrastructure. It can support different workloads and business applications as the organization grows. |
+| Microsoft Environment | Azure | I would choose Azure because it works well with Microsoft products. It is a good option for organizations that already use Windows Server, Microsoft 365, and Active Directory. |
+| AI / Machine Learning | GCP | I would recommend GCP for AI and machine learning because Google provides strong tools for these workloads. Services like Vertex AI can help developers build, train, and deploy machine learning models. |
+| Kubernetes Deployment | GCP | I would choose GCP for Kubernetes because it offers Google Kubernetes Engine (GKE). GKE makes it easier to deploy, manage, and scale applications that use containers. |
+| Global Web Application | AWS | I would recommend AWS for a global web application because it has infrastructure in many locations around the world. Services such as load balancing and auto scaling can also help keep the application available when traffic increases. |
