@@ -1,5 +1,7 @@
 # Cloud Platform Recommendation Challenge
 
+CloudNova Technologies has four different clients with different needs. Each client needs a cloud platform that fits their budget, existing technology, and business goals.
+
 ## Client A – Startup Company
 
 ### Recommended Platform: Amazon Web Services (AWS)
@@ -8,9 +10,9 @@ I would recommend AWS for this startup because it has many services that can be 
 
 ### Services the Client Could Use
 
-- **Amazon EC2** – for running the application and backend servers.
-- **Amazon S3** – for storing images, files, and other application data.
-- **Amazon RDS** – for storing and managing the application's database.
+- **Amazon EC2** 
+- **Amazon S3** 
+- **Amazon RDS** 
 
 ---
 
@@ -22,9 +24,9 @@ I would recommend Microsoft Azure because the university is already using Window
 
 ### Services the Client Could Use
 
-- **Azure Virtual Machines** – for running Windows Server workloads in the cloud.
-- **Microsoft Entra ID** – for managing user accounts and access to resources.
-- **Azure SQL Database** – for storing data used by university applications.
+- **Azure Virtual Machines** 
+- **Microsoft Entra ID** 
+- **Azure SQL Database**
 
 ---
 
@@ -48,4 +50,8 @@ I would recommend Google Cloud because the company focuses on Artificial Intelli
 
 I would recommend AWS because the company has customers from different parts of the world and needs its online store to remain available. AWS has a global infrastructure that can help the company serve customers in different locations. It also has services that can automatically adjust resources when the number of customers increases or decreases. This can help the e-commerce website handle busy periods while maintaining good performance.
 
+### Services the Client Could Use
 
+- **Amazon EC2** 
+- **Elastic Load Balancing** 
+- **Amazon EC2 Auto Scaling** 
