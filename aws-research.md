@@ -23,9 +23,9 @@ The AWS Management Console is a web-based interface used to manage AWS services 
 
 ## Three Advantages
 
-1. **1.	Scalability** – AWS resources can be increased or decreased depending on application requirements.
-2. **2.	Global Infrastructure ** –AWS provides infrastructure in many geographic locations around the world.
-3. **3.	Wide Range of Services** – AWS provides services for computing, storage, databases, networking, security, analytics, and artificial intelligence.
+1. Scalability** – AWS resources can be increased or decreased depending on application requirements.
+2. Global Infrastructure ** –AWS provides infrastructure in many geographic locations around the world.
+3. 	Wide Range of Services** – AWS provides services for computing, storage, databases, networking, security, analytics, and artificial intelligence.
 
 ## Typical Enterprise Use Cases
 
