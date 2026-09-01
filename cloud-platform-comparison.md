@@ -31,7 +31,7 @@ Google Cloud Platform is particularly strong in Artificial Intelligence, Machine
 I would personally choose Amazon Web Services (AWS) because it provides a wide range of cloud services and has a strong global infrastructure. It is also suitable for different types of organizations, from startups to large enterprises, and provides many options for building scalable applications.
 
 
-# Multi-Cloud Decision Matrix
+# Match the Cloud Services
 
 | Service Category | AWS | Azure | GCP |
 |---|---|---|---|
