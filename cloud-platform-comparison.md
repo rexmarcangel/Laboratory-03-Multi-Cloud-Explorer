@@ -43,7 +43,6 @@ I would personally choose Amazon Web Services (AWS) because it provides a wide r
 
 ## Multi-Cloud Decision Matrix
 
-The table below shows my recommended cloud platform for different business needs.
 
 | Business Requirement | Recommended Platform | Justification |
 |---|---|---|
