@@ -4,11 +4,11 @@
 
 Amazon Web Services (AWS) is a cloud computing platform provided by Amazon. It offers many cloud services such as computing, storage, databases, networking, security, and artificial intelligence. AWS allows organizations to access computing resources through the internet without having to maintain all of their own physical servers.
 
-## 2. Global Infrastructure
+## Global Infrastructure
 
 AWS has a global cloud infrastructure made up of Regions and Availability Zones. AWS Regions are separate geographic areas around the world, while Availability Zones are isolated locations within a Region. This infrastructure helps organizations build applications that are scalable, reliable, and highly available.
 
-## 3. Cloud Management Console
+##  Cloud Management Console
 
 The AWS Management Console is a web-based interface used to manage AWS services and resources. Users can use the console to create and configure virtual machines, databases, storage, networking resources, security settings, and other cloud services.
 
